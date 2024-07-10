@@ -1,0 +1,19 @@
+{
+	"name": "HttpServer_Github",
+	"type": "Microsoft.Synapse/workspaces/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/romaniangeekinnetherlands/dataconnect-solutions",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Basic",
+			"userName": "romaniangeekinnetherlands",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTkFQU0VARTdDNEFEQzktOTgxQi00MzM0LUEzODEtMEU3MUYwRUUwNjEwX2JjYjkwMDI1LTExMTgtNDhkYy1hOTM1LWQxNTQ2YjFkYWFkNiINCn0="
+		},
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
