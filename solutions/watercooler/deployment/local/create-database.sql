@@ -1,4 +1,0 @@
-CREATE DATABASE jwc;
-GO
-USE jwc;
-GO

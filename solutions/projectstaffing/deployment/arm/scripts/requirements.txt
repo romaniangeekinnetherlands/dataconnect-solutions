@@ -1,6 +1,0 @@
-requests
-azure-storage-blob
-azure-cli
-databricks-api~=0.5.1
-argparse
-retry
