@@ -5,11 +5,11 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/romaniangeekinnetherlands/dataconnect-solutions/tree/github_demo/sampledatasets",
+			"url": "https://raw.githubusercontent.com/romaniangeekinnetherlands/dataconnect-solutions/tree/github_demo/sampledatasets",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Basic",
 			"userName": "romaniangeekinnetherlands",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTkFQU0VARTdDNEFEQzktOTgxQi00MzM0LUEzODEtMEU3MUYwRUUwNjEwXzY3OWZhNjYzLWExODQtNDllNC1iZGVmLTBmZjVjMGQ4ZTVkOSINCn0="
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTkFQU0VARTdDNEFEQzktOTgxQi00MzM0LUEzODEtMEU3MUYwRUUwNjEwXzMxM2Y2NjFlLWFlYmMtNGY4NC04Y2NhLTBkYjkxZGE2NjU4OSINCn0="
 		},
 		"connectVia": {
 			"referenceName": "AutoResolveIntegrationRuntime",
